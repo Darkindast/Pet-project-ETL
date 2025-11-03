@@ -105,12 +105,12 @@ http://localhost:8080
   1. На странице Airflow найдите ваш DAG (`dag.py`).  
   2. Нажмите на **Trigger DAG** (треугольник) в правом верхнем углу страницы.  
 
--DAG начнёт выполняться, и вы сможете отслеживать прогресс и логи задач в интерфейсе:
+- DAG начнёт выполняться, и вы сможете отслеживать прогресс и логи задач в интерфейсе:
 
 <img width="974" height="169" alt="image" src="https://github.com/user-attachments/assets/d3c2ca9d-333b-4899-92f7-f176a6fc8b56" />
 <img width="974" height="397" alt="image" src="https://github.com/user-attachments/assets/203aeea6-edd6-4624-b523-6cf6e602ae06" />
 
--Посмотрим, какая табличка у нас получилась:
+- Посмотрим, какая табличка у нас получилась:
 <img width="974" height="252" alt="image" src="https://github.com/user-attachments/assets/1f89d3ac-ee08-4a86-b8db-bc94e3bbe597" />
 
 
