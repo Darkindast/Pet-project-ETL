@@ -28,7 +28,7 @@ docker compose up -d
 ## 3️⃣ Подготовка DAG
 
 - Пока контейнеры поднимаются, создаем файл `dag.py` (наш DAG).
-- Для аналитики будем пользоваться табличкой с kaggle `global_housing.csv`:
+- Для аналитики будем пользоваться файликом с kaggle `global_housing.csv`:
 <img width="766" height="545" alt="image" src="https://github.com/user-attachments/assets/571b02df-5b4e-49c3-8ea7-f429b77aa7fb" />
 
 - Разделим наш DAG на **3 основные задачи**, так как файлик с kaggle мы уже загрузили:
